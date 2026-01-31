@@ -1,10 +1,10 @@
-# Klipper NFC Spool Manager (Toolchanger Edition)
+# Klipper NFC Spool Manager
 
-A hardware bridge between NFC-tagged filament spools and a Klipper-based Toolchanger fleet. This project allows you to assign specific Spoolman IDs to specific Tool Slots (T0-T4) across multiple printers using a single handheld device.
+A hardware bridge between NFC-tagged filament spools and a Klipper-based Toolchanger fleet. This project allows you to assign specific Spoolman IDs to specific Tool Slots (T0-T4) or MMU Lanes across multiple printers using a single handheld device.
 
 ## 🚀 Features
 * **Multi-Printer Support:** Manage up to 4+ printers from one device.
-* **Toolchanger Aware:** Supports T0-T4 slot assignment for toolchangers, or direct assignment for single-tool printers.
+* **Toolchanger/MMU Aware:** Supports T0-Tx slot assignment for toolchangers, Lane X-X for MMUs or direct assignment for single-tool printers.
 * **Non-Blocking UI:** Rotary encoder navigation that stays responsive even during WiFi handshake.
 * **Spoolman Integration:** Automatically updates the "Location" field in your Spoolman database.
 
