@@ -7,12 +7,14 @@ A hardware bridge between NFC-tagged filament spools and a Klipper-based Toolcha
 * **Toolchanger/MMU Aware:** Supports T0-Tx slot assignment for toolchangers, Lane X-X for MMUs or direct assignment for single-tool printers.
 * **Non-Blocking UI:** Rotary encoder navigation that stays responsive even during WiFi handshake.
 * **Spoolman Integration:** Automatically updates the "Location" field in your Spoolman database.
+* **Low Cost Solution:** Only $20 in total if buying from amazon(probably way less on ali)
 
 ## 🛠 Hardware Required
-* **Microcontroller:** Wemos D1 Mini (ESP8266)
-* **NFC Reader:** PN532 (connected via I2C)
-* **Input:** KY-040 Rotary Encoder
-* **Display:** SSD1306 128x64 OLED
+* **Microcontroller:** Wemos D1 Mini (ESP8266) - https://a.co/d/9gC2Cn6
+* **NFC Reader:** PN532 (connected via I2C) - https://a.co/d/hoXc9qR
+* **Input:** KY-040 Rotary Encoder - https://a.co/d/ijcQabb
+* **Display:** SSD1306 128x64 OLED - https://a.co/d/3xR2ErH
+* **NFC Tags:** NTAG215 - https://a.co/d/cjPsgJL
 
 ## 🔌 Wiring Diagram
 | Component | Pin | ESP8266 Pin |
