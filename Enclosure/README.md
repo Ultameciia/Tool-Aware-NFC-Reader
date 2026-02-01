@@ -1,0 +1,1 @@
+This enclosure could probably be improved, but it works for my uses. There's no screws needed on the inside. I just used a dab of hotglue to keep the weemos, encoder, and screen attached to their spots. It's not really even needed for the encoder and screen as the lid keeps them in place. 
